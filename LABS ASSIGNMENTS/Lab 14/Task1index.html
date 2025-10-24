@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="Task1style.css" />
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <h1 class="logo">Alex <span>Dev</span></h1>
+      <ul class="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <div class="hero-content">
+      <h2>Hello, I’m <span>K Sai Krishna</span></h2>
+      <p>Front-end Developer & Designer creating delightful digital experiences.</p>
+      <a href="#projects" class="btn">View My Work</a>
+    </div>
+  </section>
+
+  <section id="about" class="about">
+    <h2>About Me</h2>
+    <p>
+      I'm passionate about building elegant, user-friendly websites. 
+      With a love for design and code, I craft experiences that are both beautiful and functional.
+    </p>
+  </section>
+
+  <section id="projects" class="projects">
+    <h2>My Projects</h2>
+    <div class="project-grid">
+      <div class="project-card">
+        <img src="https://picsum.photos/400/250?1" alt="Project 1">
+        <h3>Portfolio Website</h3>
+        <p>A sleek portfolio built with HTML, CSS, and JS.</p>
+      </div>
+      <div class="project-card">
+        <img src="https://picsum.photos/400/250?2" alt="Project 2">
+        <h3>Restaurant Page</h3>
+        <p>Modern landing page for a local restaurant.</p>
+      </div>
+      <div class="project-card">
+        <img src="https://picsum.photos/400/250?3" alt="Project 3">
+        <h3>Event Registration</h3>
+        <p>Interactive form with validation and animations.</p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+  <h2>Contact Me</h2>
+  <p>Let’s build something amazing together! Fill out the form below 👇</p>
+
+  <form class="contact-form" action="#" method="post">
+    <div class="form-group">
+      <input type="text" id="name" name="name" placeholder="Your Name" required>
+    </div>
+    <div class="form-group">
+      <input type="email" id="email" name="email" placeholder="Your Email" required>
+    </div>
+    <div class="form-group">
+      <textarea id="message" name="message" rows="5" placeholder="Your Message" required></textarea>
+    </div>
+    <button type="submit" class="btn">Send Message</button>
+  </form>
+</section>
+
+
+  <footer>
+    <p>&copy; 2025 Alex Dev | All rights reserved</p>
+  </footer>
+</body>
+</html>

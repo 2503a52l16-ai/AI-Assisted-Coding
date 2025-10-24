@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SRU TechFest Registration</title>
+  <link rel="stylesheet" href="Task3style.css">
+</head>
+<body>
+  <header>
+    <h1>SR University TechFest 2025</h1>
+    <p>Register below to join the most exciting tech event of the year!</p>
+  </header>
+
+  <section class="form-section">
+    <form id="registrationForm">
+      <h2>Event Registration Form</h2>
+
+      <div class="form-group">
+        <label for="name">Full Name</label>
+        <input type="text" id="name" name="name" placeholder="Enter your name" required>
+      </div>
+
+      <div class="form-group">
+        <label for="email">Email ID</label>
+        <input type="email" id="email" name="email" placeholder="Enter your email" required>
+      </div>
+
+      <div class="form-group">
+        <label for="phone">Phone Number</label>
+        <input type="tel" id="phone" name="phone" placeholder="10-digit phone number" required>
+      </div>
+
+      <div class="form-group">
+        <label for="dept">Department</label>
+        <select id="dept" name="dept" required>
+          <option value="">Select Department</option>
+          <option value="CSE">CSE</option>
+          <option value="ECE">ECE</option>
+          <option value="MECH">MECH</option>
+          <option value="CIVIL">CIVIL</option>
+          <option value="EEE">EEE</option>
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="event">Select Event</label>
+        <select id="event" name="event" required>
+          <option value="">Choose an Event</option>
+          <option value="Hackathon">Hackathon</option>
+          <option value="Web Design">Web Design</option>
+          <option value="AI Challenge">AI Challenge</option>
+          <option value="Robotics">Robotics</option>
+        </select>
+      </div>
+
+      <button type="submit" class="btn">Register Now</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 SR University TechFest | Organized by CSE Department</p>
+  </footer>
+
+  <script src="Task3script.js"></script>
+</body>
+</html>
