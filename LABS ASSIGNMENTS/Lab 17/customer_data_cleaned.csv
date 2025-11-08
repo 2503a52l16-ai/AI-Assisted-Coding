@@ -1,0 +1,101 @@
+customer_id,name,age,income,city,gender,gender_encoded,city_encoded
+1,Grace,30,45000,los angeles,Male,0,5
+2,David,52,40000,boston,Female,1,1
+3,Hannah,51,30000,chicago,Female,1,2
+4,Eve,41,50000,new york,Female,1,6
+5,Grace,42,50000,houston,Male,0,4
+6,Jack,55,75000,new york,Male,0,6
+7,Charlie,53,95000,houston,Male,0,4
+8,Grace,58,100000,new york,Female,1,6
+9,Hannah,40,100000,phoenix,Female,1,7
+10,Eve,45,62500,houston,Female,1,4
+11,David,53,65000,austin,Male,0,0
+12,Hannah,44,80000,austin,Female,1,0
+13,Hannah,53,75000,dallas,Female,1,3
+14,Charlie,55,50000,chicago,Female,1,2
+15,Frank,32,100000,new york,Female,1,6
+16,Eve,21,85000,new york,Male,0,6
+17,Bob,44,35000,chicago,Male,0,2
+18,Hannah,23,40000,boston,Female,1,1
+19,Frank,44,80000,dallas,Male,0,3
+20,Bob,32,75000,boston,Male,0,1
+21,Eve,57,40000,boston,Female,1,1
+22,Alice,45,35000,boston,Female,1,1
+23,Jack,27,70000,chicago,Male,0,2
+24,Frank,33,35000,boston,Female,1,1
+25,Ivy,33,95000,austin,Male,0,0
+26,Alice,44,35000,los angeles,Female,1,5
+27,Jack,60,40000,phoenix,Male,0,7
+28,Charlie,31,100000,new york,Female,1,6
+29,Grace,50,55000,new york,Male,0,6
+30,David,57,40000,phoenix,Male,0,7
+31,Ivy,50,65000,chicago,Male,0,2
+32,Charlie,22,62500,houston,Female,1,4
+33,Eve,48,60000,chicago,Male,0,2
+34,Charlie,55,100000,new york,Male,0,6
+35,Grace,41,55000,new york,Female,1,6
+36,Eve,57,30000,phoenix,Female,1,7
+37,Ivy,33,60000,boston,Male,0,1
+38,Grace,47,62500,chicago,Male,0,2
+39,Bob,54,75000,new york,Female,1,6
+40,David,31,80000,phoenix,Female,1,7
+41,Ivy,50,65000,austin,Female,1,0
+42,Bob,25,65000,new york,Female,1,6
+43,Jack,40,30000,phoenix,Female,1,7
+44,Ivy,46,55000,chicago,Male,0,2
+45,Jack,20,95000,new york,Female,1,6
+46,Eve,60,90000,houston,Male,0,4
+47,Bob,24,70000,phoenix,Male,0,7
+48,David,46,35000,dallas,Male,0,3
+49,Grace,46,55000,new york,Female,1,6
+50,Hannah,38,80000,chicago,Male,0,2
+51,Charlie,48,100000,los angeles,Male,0,5
+52,Alice,29,70000,new york,Female,1,6
+53,David,46,100000,boston,Male,0,1
+54,Bob,43,65000,chicago,Male,0,2
+55,Hannah,57,40000,austin,Female,1,0
+56,David,51,80000,austin,Male,0,0
+57,Bob,44,62500,los angeles,Male,0,5
+58,Frank,45,30000,boston,Male,0,1
+59,Frank,31,62500,dallas,Female,1,3
+60,Jack,59,100000,los angeles,Female,1,5
+61,David,21,90000,los angeles,Female,1,5
+62,Frank,57,80000,new york,Male,0,6
+63,Bob,24,45000,austin,Male,0,0
+64,Jack,26,45000,new york,Female,1,6
+65,Bob,45,100000,new york,Male,0,6
+66,Jack,27,75000,boston,Male,0,1
+67,David,55,55000,dallas,Female,1,3
+68,Hannah,51,65000,dallas,Female,1,3
+69,Grace,60,65000,chicago,Male,0,2
+70,Ivy,42,35000,los angeles,Male,0,5
+71,Hannah,33,35000,new york,Male,0,6
+72,Eve,50,100000,austin,Female,1,0
+73,Bob,50,100000,dallas,Female,1,3
+74,Eve,42,35000,new york,Female,1,6
+75,Hannah,59,40000,houston,Female,1,4
+76,Jack,30,60000,houston,Male,0,4
+77,Ivy,57,50000,new york,Female,1,6
+78,Ivy,20,60000,austin,Female,1,0
+79,Alice,21,62500,chicago,Female,1,2
+80,Ivy,55,60000,dallas,Female,1,3
+81,Grace,35,40000,los angeles,Female,1,5
+82,Ivy,20,75000,los angeles,Male,0,5
+83,Hannah,20,62500,dallas,Male,0,3
+84,Alice,46,60000,boston,Female,1,1
+85,Hannah,41,40000,chicago,Male,0,2
+86,Hannah,55,50000,new york,Female,1,6
+87,Charlie,50,60000,boston,Female,1,1
+88,Alice,51,40000,boston,Male,0,1
+89,Hannah,44,90000,new york,Male,0,6
+90,Charlie,37,35000,houston,Female,1,4
+91,Charlie,20,100000,boston,Female,1,1
+92,Alice,44,90000,boston,Female,1,1
+93,Eve,50,65000,phoenix,Male,0,7
+94,Jack,24,35000,new york,Female,1,6
+95,Grace,50,65000,austin,Female,1,0
+96,Jack,22,85000,phoenix,Female,1,7
+97,Ivy,29,30000,phoenix,Male,0,7
+98,Grace,35,100000,dallas,Female,1,3
+99,Ivy,56,90000,houston,Female,1,4
+100,Hannah,42,30000,boston,Male,0,1
